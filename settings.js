@@ -4,20 +4,20 @@
 //Instagram: mikael_jordan
 //Telegram: t.me/darklimule
 //GitHub: @Limule3650
-//WhatsApp: +237693538738
+//WhatsApp: +242066328691
 //want more free bot scripts? subscribe to my youtube channel: https://www.youtube.com/@Darklimule
 
 const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "237698581946"
-global.ownername = "🐉Limule Solitarus"
+global.ownernomer = "242066328691"
+global.ownername = "🐉data"
 global.ytname = "YT: Deaethgun635"
 global.socialm = "GitHub: Limule3650"
 global.location = "Cameroon, Yaounde"
 
-global.ownernumber = '237698581946'  //creator number
+global.ownernumber = '242066328691'  //creator number
 global.ownername = '🐉Limule Solitarus' //owner name
 global.botname = '💞𝐒𝐇𝐔𝐍𝐀_𝐁𝐔𝐆-𝐁𝐎𝐓💞' //name of the bot
 
